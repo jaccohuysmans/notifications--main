@@ -1,7 +1,7 @@
 
 #Notifications
 
-Note: This Main repository contains only a readme to explain the project, links to the actual sources are found further down.
+<sub><sup>Note: This main repository contains only a readme to explain the project, links to the actual sources are found further down.</sup></sub>
 
 ##Why?
 The Notifications project is a project that grew out of a technical assessment I went through during a job interview once.  I decided to put up it's own repositories for it and expand it using different technologies each time. Hopefully this way it will be of some use to someone in the future and maybe inspire others to add more technology variants in the future.
@@ -25,7 +25,7 @@ Like mentioned before, there are three different components for this project, th
 - Scala (using Play & ElasticSearch), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)  Not implemented yet
 - (Ruby on) Rails, [notifications-backend-rails](https://github.com/jaccohuysmans/notifications-backend-rails)  Not implemented yet
 
-#####Managment 
+#####Management 
 - Web app (using Extjs), [notifications-management](https://github.com/jaccohuysmans/notifications-management)
 
 
