@@ -11,7 +11,7 @@ The technical assesment consisted, among other things, out of an evaluation of t
 Build a mobile client that can store a users location together with some text to a backend system which persists it in some form. Also develop a management tool that administrators can use to see on a map which notifactions were stored at what location.
 
 ##How?
-I decided to developed an Android app, a  Play-Java based backend, and for managemnt a web app using ExtJs. Since I was being interviewd for a job as a (java) backend developer I focused on functionality rather then user experience optimisation. The apps are therefore pretty basic. I also opted to persist the data using ElasticSearch for no other reason then that I realy like it. -)
+I decided to developed an Android app, a  Play-Java based backend, and for managemnt a web app using ExtJs. Since I was being interviewd for a job as a (java) backend developer I focused on functionality rather then user experience optimisation. The apps are therefore pretty basic. I also opted to persist the data using ElasticSearch for no other reason then that I realy like it. :smile:
 
 ####Current available implementations
 Like mentioned before, there are three different components for this project, the mobile client, the backend and the management tool. Current avaliable implementations (click the links to visit the corresponding repositories) :
@@ -19,9 +19,10 @@ Like mentioned before, there are three different components for this project, th
 #####Mobile client 
 - Android app, [notifications-android](https://github.com/jaccohuysmans/notifications-android)
 
-Backend
+#####Backend
 - Java (using Play), [notifications-backend-java](https://github.com/jaccohuysmans/notifications-backend-java)
-- Scala (using Play), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)
+- Scala (using Play), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)  Not implemented yet
+- (Ruby on) Rails, [notifications-backend-rails](https://github.com/jaccohuysmans/notifications-backend-rails)  Not implemented yet
 
 
 
