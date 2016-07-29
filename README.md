@@ -1,7 +1,7 @@
 
 #Notifications
 
-<sub>>Note: This main repository contains only a readme to explain the project, links to the actual sources are found further down.</sub>
+<sub>Note: This main repository contains only a readme to explain the project, links to the actual sources are found further down.</sub>
 
 ##Why?
 The Notifications project is a project that grew out of a technical assessment I went through during a job interview once.  I decided to put up it's own repositories for it and expand it using different technologies each time. Hopefully this way it will be of some use to someone in the future and maybe inspire others to add more technology variants in the future.
