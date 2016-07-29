@@ -12,6 +12,7 @@ Build a mobile client that can store a users location together with some text to
 
 ##How?
 I decided to developed an Android app, a  Play-Java based backend, and for managemnt a web app using ExtJs. Since I was being interviewd for a job as a (java) backend developer I focused on functionality rather then user experience optimisation. The apps are therefore pretty basic. I also opted to persist the data using ElasticSearch for no other reason then that I realy like it. :smile:
+The backend provides a REST interface that communicates uwing Json.
 
 ####Current available implementations
 Like mentioned before, there are three different components for this project, the mobile client, the backend and the management tool. Current avaliable implementations (click the links to visit the corresponding repositories) :
@@ -20,8 +21,8 @@ Like mentioned before, there are three different components for this project, th
 - Android app, [notifications-android](https://github.com/jaccohuysmans/notifications-android)
 
 #####Backend
-- Java (using Play), [notifications-backend-java](https://github.com/jaccohuysmans/notifications-backend-java)
-- Scala (using Play), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)  Not implemented yet
+- Java (using Play & ElasticSearch), [notifications-backend-java](https://github.com/jaccohuysmans/notifications-backend-java)
+- Scala (using Play & ElasticSearch), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)  Not implemented yet
 - (Ruby on) Rails, [notifications-backend-rails](https://github.com/jaccohuysmans/notifications-backend-rails)  Not implemented yet
 
 #####Managment 
