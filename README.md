@@ -24,5 +24,7 @@ Like mentioned before, there are three different components for this project, th
 - Scala (using Play), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)  Not implemented yet
 - (Ruby on) Rails, [notifications-backend-rails](https://github.com/jaccohuysmans/notifications-backend-rails)  Not implemented yet
 
+#####Managment 
+- Web app (using Extjs), [notifications-management](https://github.com/jaccohuysmans/notifications-management)
 
 
