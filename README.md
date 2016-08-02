@@ -4,7 +4,7 @@
 <sub>Note: This main repository contains only a readme to explain the project, links to the actual sources are found further down.</sub>
 
 ##Why ?
-The Notifications project is a project that grew out of a technical assessment I went through during a job interview once.  I decided to put up it's own repositories for it and expand it using different technologies each time. Hopefully this way it will be of some use to someone in the future and maybe inspire others to add more technology variants in the future. All code is as plain vanilla as possible to keep it simple. The main goal is to come up with a working solution so mostly only happy paths are implemented. 
+The Notifications project is a project that grew out of a technical assessment I went through during a job interview once.  I decided to put up it's own repositories for it and expand it using different technologies each time. Hopefully this way it will be of some use to someone in the future and maybe inspire others to add more technology variants in the future. All code is as plain vanilla as possible to keep it simple. The main goal is to come up with a working solution which means that the code is often very naive and mostly does not handle exceptions. There be dragons here. 
 
 ##What ?
 The technical assessment consisted, among other things, of an evaluation of the following assignment:
