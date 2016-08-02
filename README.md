@@ -15,7 +15,7 @@ I decided to developed an Android app, a  Play-Java based backend, and for manag
 The backend provides a REST based API that exchanges data with its clients using Json. Both the Android app and the management app use this API.
 
 ####Current available implementations
-Like mentioned before, there are three different components for this project, the mobile client, the backend and the management tool. Current avaliable implementations (click the links to visit the corresponding repositories) :
+Like mentioned before, there are three different components for this project, the mobile client, the backend and the management tool. Current available implementations (click the links to visit the corresponding repositories) :
 
 #####Mobile client 
 - Android app, [notifications-android](https://github.com/jaccohuysmans/notifications-android)
