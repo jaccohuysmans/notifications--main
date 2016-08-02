@@ -22,7 +22,7 @@ Like mentioned before, there are three different components for this project, th
 
 #####Backend
 - Java (using Play & ElasticSearch), [notifications-backend-java](https://github.com/jaccohuysmans/notifications-backend-java)
-- Scala (using Play & ElasticSearch), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)  Not implemented yet
+- Scala (using Play & ElasticSearch), [notifications-backend-scala](https://github.com/jaccohuysmans/notifications-backend-scala)
 - (Ruby on) Rails, [notifications-backend-rails](https://github.com/jaccohuysmans/notifications-backend-rails)  Not implemented yet
 
 #####Management 
