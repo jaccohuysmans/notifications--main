@@ -11,11 +11,11 @@ The technical assessment consisted, among other things, of an evaluation of the 
 Build a mobile client that can store a users location together with some text through a backend system which persists it in some form. Also develop a management tool that administrators can use to see on a map which notifactions were stored at what location.
 
 ##How ?
-I decided to developed an Android app, a  Play-Java based backend, and for managemnt a web app using ExtJs. Since I was being interviewd for a job as a (java) backend developer I focused on functionality rather then user experience optimisation. The apps are therefore pretty bare boned. I also opted to persist the data using ElasticSearch for no other reason then that I really like it. :smile:
+I decided to developed an Android app, a  Play-Java based backend, and for managemnt a web app using ExtJs. Since I was being interviewed for a job as a (java) backend developer I focused on functionality rather then user experience optimisation. The apps are therefore pretty bare boned. I also opted to persist the data using ElasticSearch for no other reason then that I really like it. :smile:
 The backend provides a REST based API that exchanges data with its clients using Json. Both the Android app and the management app use this API.
 
 ####Current available implementations
-Like mentioned before, there are three different components for this project, the mobile client, the backend and the management tool. Current available implementations (click the links to visit the corresponding repositories) :
+Like mentioned before, there are three different components for this project, the mobile client, the backend and the management tool. Current available implementations (click the links to visit the corresponding repositories) are :
 
 #####Mobile client 
 - Android app, [notifications-android](https://github.com/jaccohuysmans/notifications-android)
