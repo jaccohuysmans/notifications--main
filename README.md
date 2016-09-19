@@ -26,6 +26,7 @@ Like mentioned before, there are three different components for this project, th
 - (Ruby on) Rails, [notifications-backend-rails](https://github.com/jaccohuysmans/notifications-backend-rails)  Not implemented yet
 
 #####Management 
-- Web app (using Extjs), [notifications-management](https://github.com/jaccohuysmans/notifications-management)
+- Web app (using Extjs), [notifications-management-extjs](https://github.com/jaccohuysmans/notifications-management-extjs)
+- Web app (using Angular 2), [notifications-management-angular2](https://github.com/jaccohuysmans/notifications-management-angular2) Not implemented yet
 
 
